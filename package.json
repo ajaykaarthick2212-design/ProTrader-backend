@@ -1,0 +1,6 @@
+{
+  "name": "protrader-backend",
+  "version": "1.0.0",
+  "description": "ProTrader AI backend — Vercel serverless functions",
+  "private": true
+}
